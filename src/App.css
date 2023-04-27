@@ -6,8 +6,10 @@
 .colour-border{
   border: 3px solid green;
   padding: 10px;
+  background-color: blueviolet;
 }
 
 .header{
   padding: 10px;
 }
+
