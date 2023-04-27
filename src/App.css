@@ -1,11 +1,11 @@
 .field{
-  width: 300px;
+  width: 1300px;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 3px solid green;
-  padding: 10px;
+  border: 63px solid green;
+  padding: 100px;
   background-color: blueviolet;
   text-decoration: dashed;
   text-size-adjust: 50;
